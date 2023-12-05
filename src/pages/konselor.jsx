@@ -2,7 +2,7 @@
 import React from 'react'
 import HeaderKonselor from '../components/Header/headerKonselor'
 import CardProfil from '../components/card/cardProfil'
-import BannerKonselor from '../components/card/BannerKonselor'
+import BannerKonselor from '../components/card/bannerKonselor'
 import { TbMoodSmileBeam } from "react-icons/tb";
 import vector1 from "../assets/Vector (6).png"
 
