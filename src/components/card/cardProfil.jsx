@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../styles/cardprofil.css'
+import '../../styles/cardProfil.css'
 
 function CardProfil({src, names, session}) {
   return (
