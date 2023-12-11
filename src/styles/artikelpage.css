@@ -21,8 +21,13 @@
     justify-content: center;
     align-items: center;
     margin-top: 100px;
+    
 }
 
+.img-artikelpage{
+    width: 750px;
+    margin-top: -6px!important;
+}
 
 .judul-artikel{
     color: var(--neutral-0-c-0-c-0-c-neutral, #1F1F1F);
@@ -79,7 +84,7 @@
 }
 
 hr {
-    width: 100%; /* Sesuaikan panjang garis sesuai kebutuhan */
+    width: 100%;
   }
 
 .content-artikel-page{
