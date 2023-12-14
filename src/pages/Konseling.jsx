@@ -11,6 +11,15 @@ import CardProfil from "../components/card/cardProfil";
 import vector3 from "../assets/Vector (2).png"
 import vector from "../assets/Vector (1).png"
 import vector2 from "../assets/Ellipse 24.png"
+import gambar1 from '../../public/Ellipse 101.svg'
+import gambar2 from '../../public/Ellipse 101 (1).svg'
+import gambar3 from '../../public/Ellipse 101 (2).svg'
+import gambar4 from '../../public/Ellipse 101 (3).svg'
+import gambar5 from '../../public/Ellipse 101 (4).svg'
+import gambar6 from '../../public/Ellipse 101 (5).svg'
+import gambar7 from '../../public/Ellipse 101 (6).svg'
+import gambar8 from '../../public/Ellipse 101 (7).svg'
+import gambar9 from '../../public/Ellipse 101 (8).svg'
 const KonselingPage = () => {
     return (
     <>
@@ -306,44 +315,44 @@ const KonselingPage = () => {
             <div className='d-flex justify-content-center'>
                 <div className='d-flex flex-column gap-4'>
                   <div className='d-flex align-items-center gap-3'>
-                    <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101.svg"} 
+                  <CardProfil 
+                      src={gambar1} 
                       names={"Maron Mango S.Psi"} 
                       session={"432+ Sesi"}/>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (1).svg"} 
+                      src={gambar2} 
                       names={"Madelyn Calzoni S.Psi"} 
                       session={"234+ Sesi"}/>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (2).svg"} 
+                      src={gambar3} 
                       names={"Jocelyn Westervelt S.Psi"} 
                       session={"221+ Sesi"}/>
                   </div>
                   <div className='d-flex align-items-center gap-3'>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (3).svg"} 
+                      src={gambar4} 
                       names={"Mira Bergson S.Psi"} 
                       session={"209+ Sesi"}/>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (4).svg"} 
+                      src={gambar5} 
                       names={"Livia Saris S.Psi"} 
                       session={"178+ Sesi"}/>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (5).svg"} 
+                      src={gambar6} 
                       names={"Carla Vaccaro S.Psi"} 
                       session={"166+ Sesi"}/>
                   </div>
                   <div className='d-flex align-items-center gap-3'>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (6).svg"} 
+                      src={gambar7} 
                       names={"Jordyn Geidt S.Psi"} 
                       session={"129+ Sesi"}/>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (7).svg"} 
+                      src={gambar8} 
                       names={"Maria Bergson S.Psi"} 
                       session={"97+ Sesi"}/>
                     <CardProfil 
-                      src={"src/assets/imgKonselor/Ellipse 101 (8).svg"} 
+                      src={gambar9} 
                       names={"Ashlynn Culhane S.Psi"} 
                       session={"Baru!"}/>
                   </div>

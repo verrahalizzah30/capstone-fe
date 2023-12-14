@@ -15,21 +15,21 @@ const users = [
     {
         id: 2,
         image: imagerev,
-        name: "Maul",
+        name: "Angeline",
         occupation: "Mahasiswi",
         text: "Women Center adalah teman setia mahasiswi. Dengan beragam fitur yang relevan, aplikasi ini membantu saya menghadapi tantangan perkuliahan dan rencana karir dengan percaya diri. Privasi yang dijaga dengan baik membuat saya nyaman berbicara tentang masalah pribadi"
     },
     {
         id: 3,
         image: imagerev,
-        name: "Mail",
+        name: "Christy",
         occupation: "Mahasiswi",
         text: "Women Center adalah teman setia mahasiswi. Dengan beragam fitur yang relevan, aplikasi ini membantu saya menghadapi tantangan perkuliahan dan rencana karir dengan percaya diri. Privasi yang dijaga dengan baik membuat saya nyaman berbicara tentang masalah pribadi"
     },
     {
         id: 4,
         image: imagerev,
-        name: "Mual",
+        name: "Chiristy Angeline",
         occupation: "Mahasiswi",
         text: "Women Center adalah teman setia mahasiswi. Dengan beragam fitur yang relevan, aplikasi ini membantu saya menghadapi tantangan perkuliahan dan rencana karir dengan percaya diri. Privasi yang dijaga dengan baik membuat saya nyaman berbicara tentang masalah pribadi"
     },
