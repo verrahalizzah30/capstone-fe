@@ -1,6 +1,9 @@
 import React from 'react'
 import '../../styles/headerKonselor.css'
-
+import gambar4 from '../../assets/gambar4.png'
+import gambar1 from '../../assets/gambar1.png'
+import gambar2 from '../../assets/gambar2.png'
+import gambar3 from '../../assets/gambar3.png'
 function HeaderKonselor() {
   return (
     <section>
@@ -10,11 +13,11 @@ function HeaderKonselor() {
                     <div className='col-12 d-flex align-items-center position-relative mb-3'>
                         <div className='col justify-content-start'>
                             <img 
-                                src="src/assets/gambar4.png" 
+                                src={gambar4} 
                                 alt="" 
                                 id='gambar_1'/>
                             <img 
-                                src="src/assets/gambar1.png" 
+                                src={gambar1} 
                                 alt="" 
                                 id='gambar_2'/>
                         </div>
@@ -43,11 +46,11 @@ function HeaderKonselor() {
                         <div 
                             className='col justify-content-end'>
                             <img 
-                                src="src/assets/gambar3.png" 
+                                src={gambar3}
                                 alt="" 
                                 id='gambar_3'/>
                             <img 
-                                src="src/assets/gambar2.png" 
+                                src={gambar2} 
                                 alt="" 
                                 id='gambar_4'/>
                         </div>
