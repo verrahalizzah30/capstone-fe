@@ -16,13 +16,13 @@ const Download = () => {
                 <p className="subt_unduh">Segera unduh dan nikmati fitur-fitur unggulan kami! <br />
                 Tetap bergabung untuk menggali potensi terbaik dalam diri Anda!</p>
                 <div className="download_btn">
-                <a href="https://play.google.com/store/apps" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/drive/folders/1bEB9socQGBIT2fFX7NKx_qtoPxkclKsD" target="_blank" rel="noopener noreferrer">
                   <button className="playgoogle__btn">
                     <img src={Playgoogle} alt="google-img" />
                   </button>
                 </a>
 
-                <a href="https://www.apple.com/app-store/" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/drive/folders/1bEB9socQGBIT2fFX7NKx_qtoPxkclKsD" target="_blank" rel="noopener noreferrer">
                   <button className="apple-btn">
                     <img src={Appstore} alt="apple-img" />
                   </button>
